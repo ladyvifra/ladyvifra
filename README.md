@@ -22,3 +22,13 @@ Adaptability: With experience in various programming languages and frameworks, I
 
 Critical Thinking: My studies in literature foster critical thinking and analytical skills, enabling me to evaluate situations from multiple perspectives and make informed decisions.
 
+
+
+## Hobbies
+Reading: I have a deep passion for literature, enjoying everything from classic novels to contemporary poetry, which fuels my creativity and inspires my work in technology.
+
+Music: I love exploring various music genres, from rock to classical, as it enriches my perspective and enhances my productivity.
+
+Film: I enjoy watching films, particularly those with strong narratives and unique storytelling techniques, as they provide insights into different cultures and human experiences.
+
+Tech Exploration: In my spare time, I like to experiment with new technologies and tools, staying updated on industry trends and expanding my skill set.
