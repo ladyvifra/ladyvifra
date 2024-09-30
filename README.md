@@ -12,3 +12,13 @@ Back-End: With a solid foundation in Java and Python, I develop efficient and sc
 Quality Assurance: Currently studying QA, I’m learning to implement rigorous testing methodologies to ensure software quality and reliability.
 
 Data Analysis: My background in data analysis allows me to interpret and manipulate data effectively, contributing to informed decision-making.
+
+## Skills
+Problem-Solving: As a professional in both literature and technology, I excel at analyzing complex problems and developing creative solutions. I enjoy exploring new technologies to enhance my problem-solving skills.
+
+Communication: My background in literature equips me with strong communication skills, allowing me to convey ideas clearly and effectively, whether in written or verbal form.
+
+Adaptability: With experience in various programming languages and frameworks, I adapt quickly to new technologies and methodologies, ensuring that I stay current in the ever-evolving tech landscape.
+
+Critical Thinking: My studies in literature foster critical thinking and analytical skills, enabling me to evaluate situations from multiple perspectives and make informed decisions.
+
